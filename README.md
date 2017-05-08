@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+Just a new feature
 
 Hello guns,
 I love Node.js, eat and sleep.
